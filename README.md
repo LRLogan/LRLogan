@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LRLogan or just Logan Larrondo
+- 👋 Hi, I’m @LRLogan or just Logan 
 - 👀 I’m interested in Designing game and game engine logic as well as AI and data analysis algorithems
 - 🌱 I’m currently learning Game Design and Software Engineering at RIT
 - 💞️ I’m looking to collaborate on Games and and data management / analysis projects
